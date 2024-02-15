@@ -1,1 +1,1 @@
-# learn-management-system
+# learn-management-system-next-js
